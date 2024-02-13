@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date and Time/Date and Time.iml" filepath="$PROJECT_DIR$/Date and Time/Date and Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeJan23/PracticeJan23.iml" filepath="$PROJECT_DIR$/PracticeJan23/PracticeJan23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringHandling/String&amp;ExceptionHandling.iml" filepath="$PROJECT_DIR$/StringHandling/String&amp;ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
+    </modules>
+  </component>
+</project>
